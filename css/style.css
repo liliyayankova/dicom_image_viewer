@@ -1,0 +1,31 @@
+body{
+    background: #eee;
+}
+#login_form{
+    border: solid gray 1px;
+    width: 20%;
+    border-radius: 5px;
+    margin: 100px auto;
+    background: white;
+    padding: 50px;
+}
+#profile_form{
+    border: solid gray 1px;
+    width: 20%;
+    border-radius: 5px;
+    margin: 100px auto;
+    background: white;
+    padding: 50px;
+}
+#button{
+    color: #fff;
+    background: #337ab7;
+    padding: 5px;
+    margin-left: 69%;
+}
+#link_button{
+    color: #fff;
+    background: #337ab7;
+    padding: 5px;
+    margin-left: 35%;
+}
